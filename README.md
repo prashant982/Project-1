@@ -2,12 +2,11 @@
 Pure Bootstrap Project
 
 
-This is the first Bootstrap project that I made. I have only used Pure Bootstrap classes so that's why it has got some tacky colors. 
+This is the first Bootstrap project that I have made. I have only used Pure Bootstrap classes so that's why it has got some tacky colors. 
 
-The varios Bootstrap classes used in this project are: 
+Bootstrap Components Used - NAVBAR, PROGRESS, CARDS, FORMS. 
 
-Standard NAVBAR classes, CONTAINER-FLUID, ROW and COL. 
 
-I have also added various breakpoints wherever necessary so that it becomes responsive. 
+FLUID CONTAINERS,  GRIDS with RESPONSIVE BREAKPOINTS has also been used in this project. 
 
 Thank You. 
